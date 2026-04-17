@@ -44,7 +44,7 @@ hitl_chatbot/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/hitl-chatbot.git
+git clone https:
 cd hitl-chatbot
 ```
 
@@ -118,6 +118,6 @@ final_result = app.invoke(
 **`MemorySaver`** — Stores graph state in memory so execution can be paused and resumed seamlessly.
 
 ---
-##  Author 
-** Vishwas
-** Linkdln: https://www.linkedin.com/in/vishwas-kori/
+## Author  
+**Vishwas**  
+**LinkedIn:** https://www.linkedin.com/in/vishwas-kori/
