@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain-core
+typing-extensions
+ipykernel
+jupyter
+langchain-nvidia-ai-endpoints
+python-dotenv
+pydantic
+streamlit
+langchain_community
