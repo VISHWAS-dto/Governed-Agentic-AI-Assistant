@@ -1,6 +1,6 @@
-# Human-in-the-Loop (HITL) Chatbot
+# Governed Agentic AI Assistant
 
-A LangGraph-powered chatbot that implements a **Human-in-the-Loop** approval mechanism — every user question must be approved by a human operator before the AI responds.
+A LangGraph-powered chatbot that implements a **Governed Agentic AI Assistant** approval mechanism — every user question must be approved by a human operator before the AI responds.
 
 ---
 
